@@ -1,0 +1,3 @@
+The manual 1.0.7 is not finished 
+and need to be actualised,
+specially in the modelling section.
