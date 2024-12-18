@@ -1,4 +1,4 @@
-Larval Index estimation for ICCAT stock assessment models
+# Larval Index estimation for ICCAT stock assessment models
 
 The code mainly conducts the following tasks:
 (1) Read data from ichthyoplankton database and CTD database in Access
